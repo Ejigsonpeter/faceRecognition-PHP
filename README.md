@@ -1,8 +1,7 @@
 # faceRecognition-PHP
 Face recognition for php, this relies on a docker container.
 
-
-![Drag Racing](./1280-720 (1).png)
+![Thumbnail](https://raw.githubusercontent.com/MacgyverCode/faceRecognition-PHP/master/1280-720%20(1).png)
 
 YouTube Step by Step Tutorial: https://www.youtube.com/watch?v=58TSb17tS5A
 
