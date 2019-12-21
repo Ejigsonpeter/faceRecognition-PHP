@@ -16,3 +16,10 @@ git clone https://github.com/MacgyverCode/faceRecognition-PHP.git
 Download Docker image
 
 docker pull macgyvertechnology/face-comparison-model:2
+
+
+## Step 3 
+
+Run the inference
+
+php exampleUsage.php 
